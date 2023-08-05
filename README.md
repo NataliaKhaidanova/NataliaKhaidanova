@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **NataliaKhaidanova/NataliaKhaidanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NataliaKhaidanova&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NataliaKhaidanova&theme=react&hide_current_streak=true)](https://git.io/streak-stats)
